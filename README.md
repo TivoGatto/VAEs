@@ -5,7 +5,7 @@ Here in the README.md I will note some observation I need to remember for each N
 
 ## Naive VAE
 
-Phase-transiction in changing latent_dim for MNIST.
+Phase-transition in changing latent_dim for MNIST.
 
 ## Beta-VAE
 
